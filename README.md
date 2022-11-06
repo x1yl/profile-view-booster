@@ -3,8 +3,7 @@
 -----
 ## Requirements
 
-- Python
-- Requests
+- Golang
 - **https://komarev.com/ghpvc/?username=YOURUSERNAME**
 
 -----
