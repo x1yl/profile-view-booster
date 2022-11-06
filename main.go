@@ -22,6 +22,10 @@ func main() {
     }
     
     i += 1
-    fmt.Println("\nYour profile has been boosted", i, "times")
+    if i == 1 {
+      fmt.Println("\nYour profile has been boosted", i, "time")
+    } else { 
+      fmt.Println("\nYour profile has been boosted", i, "times") 
+    }
   }
 }
