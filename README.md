@@ -1,4 +1,4 @@
-<h1 align="center">Profile Views Booster</h1>
+<h1 align="center">Profile Views Booster written in Go</h1>
 
 -----
 ## Requirements
@@ -14,11 +14,9 @@ Click the below button to deploy on replit
 
 ## Setting up
 
-Copy the below html and replace YOURUSERNAME. Create a new github repository and paste it into a README.md file. 
+Copy the below html and replace YOURUSERNAME. Create a new github repository named YOURUSERNAME/YOURUSERNAME and paste it into a README.md file. 
 ```
-<p align="center">
-  <img width="100" height="20" src="https://komarev.com/ghpvc/?username=YOURUSERNAME">
-</p>
+<img width="100" height="20" src="https://komarev.com/ghpvc/?username=YOURUSERNAME">
 ```
 
 Right click on the button you created and select copy link address.
